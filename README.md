@@ -1,10 +1,14 @@
 # reviews.sh
 Bash utility script to help folks in ccsf's cs131B Intermediate Python perform their weekly Peer Review.
 
-Filename: reviews.sh
+Filename: reviews.sh 
+
 Author: Geoff Norman
+
 Contact: gnorman1@mail.ccsf.edu
+
 Date: 03/23/20
+
 
 File: $(basename "$0")
 	usage: <-h> <-g> <-c> <-m:(optional)> <-r: file1> <-e: file1> 
