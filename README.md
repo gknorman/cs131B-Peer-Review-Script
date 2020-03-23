@@ -3,6 +3,8 @@ Bash utility script to help folks in ccsf's cs131B Intermediate Python perform t
 
 Filename: reviews.sh 
 
+In Repository: https://github.com/gknorman/cs131B-Peer-Review-Script/blob/master/reviews.sh
+
 Author: Geoff Norman
 
 Contact: gnorman1@mail.ccsf.edu
