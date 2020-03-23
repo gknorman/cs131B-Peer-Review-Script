@@ -1,10 +1,11 @@
 #!/bin/bash
 #
-# Filename: reviws.sh
+# Filename: reviews.sh
 # Author: Geoff Norman
 # Contact: gnorman1@mail.ccsf.edu
 # Date: 03/23/20
 # Purpose: Utility script to assist in peer reviews for cs131B Intermediate Python at SF City College.
+# 
 
 read_file()
 {
