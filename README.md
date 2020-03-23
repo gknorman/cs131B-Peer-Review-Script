@@ -10,7 +10,7 @@ Contact: gnorman1@mail.ccsf.edu
 Date: 03/23/20
 
 
-File: $(basename "$0")
+	File: $(basename "$0")
 	usage: <-h> <-g> <-c> <-m:(optional)> <-r: file1> <-e: file1> 
 
 	-h : this help dialog
